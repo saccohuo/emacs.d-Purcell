@@ -1,0 +1,10 @@
+[submodule "export-themes"]
+	path = export-themes
+	url = https://github.com/saccohuo/export-themes.git
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/saccohuo/my-snippets.git
+[submodule "pyim-dicts"]
+	path = pyim/dicts
+	url = https://github.com/saccohuo/pyim-dicts.git
+
